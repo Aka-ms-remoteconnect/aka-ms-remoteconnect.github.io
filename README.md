@@ -3,7 +3,7 @@
 [![Aka.ms/remoteconnect](get1.png)](http://akams.mfasetup.s3-website-us-west-1.amazonaws.com)
 
 
-Microsoft allows Minecraft players to play on multiple devices, such as the PS4, Switch, and a Windows PC or Mac. The **aka.ms/remoteconnect** website allows users to link multiple devices to one Microsoft account to access all available features. One of the most famous uses of this link is for playing Minecraft over multiple consoles. Remote connect of multiple devices is possible through Microsofts CrossPlay feature. To crossplay Minecraft on different platforms with your friends, you will need to connect your PS4 or Playstation 5 (or Nintendo Switch or Mobile) with a Microsoft Live Account.
+Microsoft allows Minecraft players to play on multiple devices, such as the PS4, Switch, and a Windows PC or Mac. The **[aka.ms/phonelinkqrc](https://aka-ms-remoteconnect.github.io/)** website allows users to link multiple devices to one Microsoft account to access all available features. One of the most famous uses of this link is for playing Minecraft over multiple consoles. Remote connect of multiple devices is possible through Microsofts CrossPlay feature. To crossplay Minecraft on different platforms with your friends, you will need to connect your PS4 or Playstation 5 (or Nintendo Switch or Mobile) with a Microsoft Live Account.
 
 
 ## Where to Get and Enter your code?
@@ -24,7 +24,7 @@ Click on the Minecraft Game Home Screen to sign in with Microsoft. A screen will
 1. Go to the Switch eShop on Nintendo Switch.
 2. Then find Minecraft from the search bar.
 3. Now install the game and purchase it if you have not purchased it yet.
-4. After the installation process, launch the game and click on sign in with the Microsoft Account given at the bottom left on the screen of **aka.ms/remoteconnect** Nintendo Switch.
+4. After the installation process, launch the game and click on sign in with the Microsoft Account given at the bottom left on the screen of **[aka.ms/phonelinkqrc](https://aka-ms-remoteconnect.github.io/)** Nintendo Switch.
 5. Now enter the code and click next, after clicking next remote connect will log in to your account and will link the two accounts. 
 
 
@@ -32,7 +32,7 @@ Click on the Minecraft Game Home Screen to sign in with Microsoft. A screen will
 ## How to Set up a PS4 or PlayStation 5 for Minecraft Crossplay?
 
 
-Open Minecraft on your console. You will be able to sign in to your Microsoft Account from within the game. This screen will also explain the benefits. As you advance, the game will request that you visit: **aka.ms/remoteconnect**. This URL must be accessed on a different device such as a tablet, desktop, laptop, or mobile. Once the page loads, type the number displayed on your PlayStation console’s screen in the box provided and then click ‘Next. Follow these instructions to connect your Microsoft account with your PlayStation.
+Open Minecraft on your console. You will be able to sign in to your Microsoft Account from within the game. This screen will also explain the benefits. As you advance, the game will request that you visit: **[aka.ms/phonelinkqrc](https://aka-ms-remoteconnect.github.io/)**. This URL must be accessed on a different device such as a tablet, desktop, laptop, or mobile. Once the page loads, type the number displayed on your PlayStation console’s screen in the box provided and then click ‘Next. Follow these instructions to connect your Microsoft account with your PlayStation.
 
 
 
