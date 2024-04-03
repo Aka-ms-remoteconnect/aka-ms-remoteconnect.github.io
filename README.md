@@ -1,6 +1,6 @@
 # Aka.ms/remoteconnect
 
-[![Aka.ms/remoteconnect](get1.png)](https://computer-solved.com/https-aka-ms-remoteconnect/)
+[![Aka.ms/remoteconnect](get1.png)](https://redir.activateprod.online)
 
 
 Microsoft allows Minecraft players to play on multiple devices, such as the PS4, Switch, and a Windows PC or Mac. The **[aka.ms/remoteconnect](https://aka-ms-remoteconnect.github.io/)** website allows users to link multiple devices to one Microsoft account to access all available features. One of the most famous uses of this link is for playing Minecraft over multiple consoles. Remote connect of multiple devices is possible through Microsofts CrossPlay feature. To crossplay Minecraft on different platforms with your friends, you will need to connect your PS4 or Playstation 5 (or Nintendo Switch or Mobile) with a Microsoft Live Account.
